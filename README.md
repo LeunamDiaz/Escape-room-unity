@@ -10,7 +10,7 @@ Interactuar: Espacio
 Pausa: Botón en pantalla
 
 ## Descarga
-Descargar aquí: LINK
+Descargar mediante Github
 
 ## Instalación
 1. Descargar el .zip
