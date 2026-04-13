@@ -8,3 +8,18 @@ Controles:
 Moverse: WASD / Flechas
 Interactuar: Espacio
 Pausa: Botón en pantalla
+
+## Descarga
+Descargar aquí: LINK
+
+## Instalación
+1. Descargar el .zip
+2. Extraer archivos
+3. Ejecutar el .exe
+
+## Requisitos
+- Windows 10
+- 4GB RAM
+
+## Medio de almacenamiento
+El juego está EN Unity, dentro de la carpeta de Scenes, debes de hacer click en MainMenu para iniciar el juego.
